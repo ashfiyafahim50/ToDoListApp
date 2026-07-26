@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Existing -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Smart To-Do Theme -->
+    <color name="background">#F5F7FA</color>
+    <color name="primary">#2563EB</color>
+    <color name="secondary">#7C3AED</color>
+    <color name="accent">#10B981</color>
+    <color name="textPrimary">#1F2937</color>
+    <color name="textSecondary">#6B7280</color>
+
+</resources>
